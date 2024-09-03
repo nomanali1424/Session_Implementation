@@ -1,2 +1,2 @@
 # Session_Implementation
- This repository contain code implentation from session
+ This repository contain code implementation from the sessions
